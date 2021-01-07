@@ -1,5 +1,7 @@
-<img src="./assets/Ali-main.png"/>
-<img align="left" width="150" height="150" alt="Dani Akash" src="./assets/Hi-avatar.jpg"/>
+<p align="center">
+  <img style="max-width: 60%" src="./assets/Ali-main.png"/>
+</p>
+<img align="left" width="150" height="150" src="./assets/Hi-avatar.jpg"/>
 
 ### I'm [Ali Zamani][homepage]
 
