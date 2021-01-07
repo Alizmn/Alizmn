@@ -5,16 +5,11 @@
 
 ### I'm [Ali Zamani][homepage]
 
-<img align="right" height="250" width="375" alt="" src="./assets/coder.gif" />
-
-
-
-
-
+<img align="right" height="250" width="375" alt="" src="./assets/coder.gif" />  
+  
+    
+    
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-
-<p align="left">
 ```javascript
 const Ali = {
   pronouns: "he" | "his",
@@ -29,7 +24,6 @@ const Ali = {
  challenge: "I am doing the AppFromHome challenge focused on react and react native"
 }
 ```
-</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
