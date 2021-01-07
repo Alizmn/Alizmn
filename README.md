@@ -3,12 +3,13 @@
 </p>
 <img align="left" width="150" height="150" src="./assets/Hi-avatar.jpg"/>
 
-### I'm [Ali Zamani][homepage]
+### I'm [Ali](https://Alizmn.github.io)
+<p>Welcome to mu GitHub page</p>
 
 <img align="right" height="250" width="375" alt="" src="./assets/coder.gif" />  
   
     
-    
+<br></br>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const Ali = {
