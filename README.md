@@ -3,10 +3,10 @@
 </p>
 <img align="left" width="150" height="150" src="./assets/Hi-avatar.jpg"/>
 
-### I'm [Ali](https://Alizmn.github.io)
-<p>Welcome to mu GitHub page</p>
+### I'm [Ali](https://Alizmn.github.io)!
+<p>Welcome to my GitHub profile, I hope you enjoy it ❤️</p>
 
-<img align="right" height="250" width="375" alt="" src="./assets/coder.gif" />  
+<img align="right" height="125" width="187.5" alt="" src="./assets/coder.gif" />  
   
     
 <br></br>
