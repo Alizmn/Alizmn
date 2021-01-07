@@ -4,13 +4,13 @@
 <img align="left" width="150" height="150" src="./assets/Hi-avatar.jpg"/>
 
 ### I'm [Ali](https://Alizmn.github.io)!
-<p>Welcome to my GitHub profile, I hope you enjoy it ❤️</p>
+<p>Welcome to my GitHub profile, enjoy yourself ❤️</p>
 
 <img align="right" height="125" width="187.5" alt="" src="./assets/coder.gif" />  
   
     
 <br></br>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 ```javascript
 const Ali = {
   pronouns: "he" | "his",
@@ -26,7 +26,7 @@ const Ali = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😎</em>
 
 ---
 
