@@ -3,6 +3,7 @@
 
 ### I'm [Ali Zamani][homepage]
 
+<img align="right" height="250" width="375" alt="" src="./assets/coder.gif" />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
@@ -16,7 +17,7 @@ const Ali = {
                         Typeccript,
                         Docker
               ],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the AppFromHome challenge focused on react and react native"
 }
 ```
 
