@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="max-width: 60%" src="./assets/Ali-main.png"/>
+  <img width="60%" height="60%" src="./assets/Ali-main.png"/>
 </p>
 <img align="left" width="150" height="150" src="./assets/Hi-avatar.jpg"/>
 
