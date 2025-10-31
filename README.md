@@ -14,15 +14,9 @@
 ```javascript
 const Ali = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, Python],
-  tools: [React, Node, Storybook, Styled-Components, Jest, Vagrant],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  Learning: [
-                        React Native,
-                        Typeccript,
-                        Docker
-              ],
- challenge: "I am doing the AppFromHome challenge focused on react and react native"
+  code: [Typescript, Java, Python],
+  tools: [React, SpringBoot, Aurelia],
+  architecture: ["microservices", "event-driven", "design system pattern"]
 }
 ```
 
